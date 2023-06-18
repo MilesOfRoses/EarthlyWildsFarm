@@ -1,0 +1,5 @@
+url: http://earthlywilds.farm
+exclude: ['README.md']
+permalink: pretty
+name: Earthly Wilds Farm 
+description: This website is for learning about Earthly Wilds Farm
