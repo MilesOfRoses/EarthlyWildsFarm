@@ -256,6 +256,20 @@ h3 {
 	font-size: 15px;
 }
 
+h2, h1 {
+	font-size: 15px;
+}
+
+p {
+	font-size: 12px;
+}
+
+.media-section {
+	width: 95%;
+}
+
+
+
 
 /*	div.icon-placeholder:before {
 	content:url(../img/rose-loop-50x50.gif);
@@ -317,12 +331,9 @@ h3 {
 		font-size: 2rem;
 	}
 
-	.article-title {
-		font-size: 1.5rem;
-	}
 
 	.article-list{
-		max-width: 100%;
+		max-width: 90%;
 		margin-top:40px;
 	}
 
@@ -346,24 +357,7 @@ h3 {
 	}
 }
 
-@media (max-width: 1050px){
-	#videos{
-		max-width: 760px;
-	}
-}
 
-@media (max-width: 735px){
-	#videos img{
-		width: 140px;
-	}
-	#videos{
-		width:345px;
-	}
 
-}
 
-@media (max-width: 795px){
-	#videos{
-		max-width:505px;
-	}
-}
+
