@@ -1,19 +1,23 @@
 ---
 layout: blog
 title: Blog
-meta: Blog about Art, Design, Programming, and more!
-changefreq: weekly
+meta: Blog
+changefreq: monthly
 ---
-<div id="bio-card" class="centerText">
-	<p>I write about a variety of topics, and I post in sporadic intervals. My posts are loosely categorized into three general sections: 
-	<br>"Design", "Code", and "Life". All posts are listed below. To filter posts by category, click on the category navigation links above.</p>
-</div>
-<h1 class="centerText article-title allPosts" >All Posts</h1>
-<ul class="centerText article-list">
-	{% for post in site.posts %}
-		<li class="media-section">
-			<h2 class="article-title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
-			<p>{{post.meta}}</p>
-		</li>
-	{% endfor %}
-</ul>
+
+
+
+<div class="media-section">
+	<h2 class="centerText">Blog</a></h2>
+	<p>This blog is where I journal my experiences in the garden and document my methods and practices. This is also a place where I post some of the underlying philosophies for why I have chosen this path in life</p>
+
+	<ul class="centerText article-list">
+		{% for post in site.posts %}
+				<li class="media-section">
+					<a href="{{site.baseurl}}{{post.url}}">
+						<h2 class="article-title">{{post.title}}</h2>
+						<p>{{post.meta}}</p>
+					</a>
+				</li>	
+		{% endfor %}
+	</ul>

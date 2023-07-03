@@ -1,17 +1,14 @@
 <nav>
 	<ul class="nav {{include.navclass}}">
-		<li><a href="{{site.baseurl}}/" class="{% if page.url == '/' or page.url contains 'illustration' or page.url contains 'sculpture' or page.url contains '3d-model' %}current{% endif %}">Homepage</a></li>
-		<!-- <li>-</li> -->
-		<!-- <li>-</li> -->
-		<!-- <li><a href="{{site.baseurl}}/about/" class="{% if page.url contains 'about' %}current{% endif %}">About</a></li> -->
+		<div id="nav-left">
+			<li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
+			<li><a href="{{site.baseurl}}/buy/" class="{% if page.url contains 'buy'%}current{% endif %}">Buy</a></li>
+		</div>
 
-		<li><a href="{{site.baseurl}}/buy/" class="{% if page.url contains 'buy'%}current{% endif %}">Buy</a></li>
-		<!-- <li>-</li> -->
-
-		<li><a href="{{site.baseurl}}/blog/" class="{% if page.url contains 'blog' or page.url contains 'life' or page.url contains 'code' or page.url contains 'design' %}current{% endif %}">Blog</a></li>
-
-		<li><a href="{{site.baseurl}}/contact" class="{% if page.url contains 'contact'%}current{% endif %}">Contact</a></li>
-		
+		<div id="nav-right">
+			<li><a href="{{site.baseurl}}/blog/" class="{% if page.url contains 'blog' %}current{% endif %}">Blog</a></li>
+			<li><a href="{{site.baseurl}}/contact" class="{% if page.url contains 'contact'%}current{% endif %}">Contact</a></li>
+		</div>		
 		
 	</ul>
 </nav>

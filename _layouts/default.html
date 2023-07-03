@@ -18,26 +18,28 @@ as well as all of the CSS links and JS links -->
 <body>
 <div class="wrapper">
 	<header>
-		<a id="backToTop"></a>
-		<img src="{{site.baseurl}}/img/logo.png" id="farm-logo">
+		<a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">
+				<img src="{{site.baseurl}}/img/logo.png" id="farm-logo">
+		</a>
+
 		{% include nav.html navclass='nav-top' %}<!-- link to navigation under the masthead-->
+		
 	</header>
 	{{content}}
 
 	<footer>
-		<h2 class="centerText" id="follow">Follow me!</h2>
+
+<!-- 	<h2 class="centerText" id="follow">Follow me!</h2>
 	<div class="container centerText">
-		<!-- Extra Small Buttons spin -->
 		<a href="https://www.youtube.com/channel/UCoi5IujqQmaHU48EduXVxew" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-youtube"></i></span></a> 
-		<a href="https://twitter.com/MilesOfRoses" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-twitter"></i></span></a>
-		<a href="https://www.linkedin.com/in/miles-rose-44816752?trk=nav_responsive_tab_profile" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-linkedin-square"></i></span></a>
-		<a href="http://milesofcrimsonroses.tumblr.com/" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-tumblr-square"></i></span></a> 
+		<a href="https://www.linkedin.com/in/miles-rose-44816752?trk=nav_responsive_tab_profile" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-facebook-square"></i></span></a>
 		<a href="{{site.baseurl}}/feed.xml" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-rss-square"></i></span></a>
-		<a href="https://vimeo.com/milesrose" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-vimeo-square"></i></span></a>
 		<a href="https://github.com/MilesOfRoses" target="blank"><span class="hb hb-xs spin-icon"><i class="fa fa-github-square"></i></span></a>
-				<!--  Extra Small Buttons spin  End -->
-	</div><!-- /.container -->
-		<p id="smallText"><a href = "mailto: Miles@MilesRose.net" target="blank">Email me at <span class="redlink">Miles@MilesRose.net</span></a></p>
+	</div> -->
+	<br>
+		<p id="smallText">Email me at <a href = "mailto: EarthlyWildsFarm@gmail.com" target="blank">EarthlyWildsFarm@gmail.com</a>
+		<br>
+		Follow me on <a href="https://www.facebook.com/EarthlyWilds/" target="new-tab">Facebook</a> and <a href="https://www.instagram.com/earthly_wilds/" target="new-tab">Instagram</a>!</p>
 	</footer>
 </div>
 

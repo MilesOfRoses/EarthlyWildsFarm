@@ -1,6 +1,4 @@
-# url: http://earthlywilds.farm
-# baseurl: "EarthlyWildsFarm" #this line is only used while using the gh-pages domain name hosting. use the actual "earthlywilds.farm" domain when it is time to switch over
+baseurl: "EarthlyWildsFarm" 
 exclude: ['README.md']
-permalink: pretty
 name: Earthly Wilds Farm 
 description: This website is for learning about Earthly Wilds Farm
