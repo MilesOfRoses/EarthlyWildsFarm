@@ -1,0 +1,124 @@
+---
+layout: default
+title: home
+meta: homepage
+---
+
+<!-- ABOUT SECTION -->
+<div class="media-section">
+	<h2>Earthly Wilds Farm is a small off grid market garden that practices regenerative farming practives to produce naturally grown vegetables, free from any toxic chemical sprays of pesticides or herbicides</h2>
+
+	<p id="about">Earthly Wilds Farm is a new market garden enterprise located in Torch Lake Michigan, 
+		owned and operated by me, <a href="{{site.baseurl}}/blog/an-introduction">Miles Rose!</a> I have been an avid gardener for over a 
+		decade, and I am excited to turn my passion into a business!  
+		Right now, I am focusing on growing, greens (Red and Green Lettuce, Baby Red Kale, Arugula, Spinach, Etc.), Garlic, as well as roots like Turnips and Radishes. My farm is Off-The-Grid, it is not 
+		connected to any electric lines, gas lines, or water lines. I primarily generate what 
+		little electricity I need using <a href="{{site.baseurl}}/blog/basic-400-watt-solar-off-grid-system">solar panels.</a> I always try to find creative ways to get 
+		the most use out of a small amount of energy, treading lightly on the earth while 
+		still having a positive impact! I farm using <a href="{{site.baseurl}}/blog/what-is-regenerative-agriculture">natural regenerative practices</a> that 
+		respect the earth, soil, life and wild ecology. My farming methods are free from any 
+		toxic synthetic chemical pesticides, herbicides, fungicides, etc. I'm excited to feed as many people in the local community as I can, with the most healthy, natural, nutrient dense food that I can grow!
+		<br>
+		<br>
+		-Miles Rose
+	</p>
+</div>
+<!-- /ABOUT SECTION -->
+
+
+<!-- BUY BUTTON -->
+<a href="/buy">
+	<button type="button" id="buy-btn">
+		Buy Vegetables from Earthly Wilds Farm
+	</button>
+</a>
+
+<!-- BLOG SECTION -->
+
+
+<div class="media-section">
+	<h2 class="centerText">Blog</a></h2>
+	<p>This blog is where I journal my experiences in the garden and document my methods and practices.</p>
+
+	<ul class="centerText article-list">
+		{% for post in site.posts %}
+				<li class="media-section">
+					<a href="{{site.baseurl}}{{post.url}}">
+						<h2 class="article-title">{{post.title}}</h2>
+						<p>{{post.meta}}</p>
+					</a>
+				</li>	
+		{% endfor %}
+	</ul>
+
+	
+	<!-- <div class="photos">
+		<div class="responsive">
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/789/40847211421_004764b7de_z.jpg" alt="Airship Voyage"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/793/39037871680_6fef7ea8b4_z.jpg" alt="Kingdom of the Clouds"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/821/39037871060_1294ca16cb_z.jpg" alt="Spiral Geometry"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm5.staticflickr.com/4775/39953144245_1fa180bbce_z.jpg" alt="Geo Face"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/798/39953168035_d081be86e1_z.jpg" alt="Rainbow Amoeba"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/814/40847224991_72c3a9b7c7_z.jpg" alt="tree of consoiusness"></a>
+
+		  <a href="/blog">
+		  <img src="https://farm1.staticflickr.com/806/40847224951_b8cfffb60f_z.jpg" alt="tree pattern painting"></a>
+
+ 
+		</div>
+	</div> -->
+</div>
+
+<!--/ BLOG SECTION -->
+
+
+
+<!-- GALLERY SECTION -->
+<!-- <div class="media-section">
+	<h2 class="centerText">Gallery</a></h2>
+	<p>A few pics from around the farm!
+	<div class="photos">
+		<div class="responsive">
+
+		  <a href="https://farm1.staticflickr.com/791/40847231361_7600464893_z.jpg" data-lity  data-lity->
+		  <img src="https://farm1.staticflickr.com/791/40847231361_7600464893_z.jpg" alt="Balance"></a>
+
+		  <a href="https://farm1.staticflickr.com/813/39953168495_7744a18068_z.jpg" data-lity  data-lity->
+		  <img src="https://farm1.staticflickr.com/813/39953168495_7744a18068_z.jpg" alt="Sunset From Orbit"></a>
+
+		  <a href="https://farm1.staticflickr.com/810/39953169025_8046feee17_z.jpg" data-lity  data-lity->
+		  <img src="https://farm1.staticflickr.com/810/39953169025_8046feee17_z.jpg" alt="Dysdomia"></a>
+
+		  <a href="https://farm5.staticflickr.com/4773/39953170015_e518eacd72_z.jpg" data-lity  data-lity->
+		  <img src="https://farm5.staticflickr.com/4773/39953170015_e518eacd72_z.jpg" alt="Dysdomia colonized"></a>
+
+		  <a href="https://farm5.staticflickr.com/4785/39037879680_c77675ce9c_z.jpg" data-lity  data-lity->
+		  <img src="https://farm5.staticflickr.com/4785/39037879680_c77675ce9c_z.jpg" alt="Space Rose"></a>
+
+		  <a href="https://farm5.staticflickr.com/4776/39037873530_6e04f2b474_z.jpg" data-lity  data-lity->
+		  <img src="https://farm5.staticflickr.com/4776/39037873530_6e04f2b474_z.jpg" alt="Blackwood"></a>
+
+		  <a href="https://farm1.staticflickr.com/789/40847211421_004764b7de_z.jpg" data-lity  data-lity->
+		  <img src="https://farm1.staticflickr.com/789/40847211421_004764b7de_z.jpg" alt="Airship Voyage"></a>
+
+		  <a href="https://farm1.staticflickr.com/793/39037871680_6fef7ea8b4_z.jpg" data-lity  data-lity->
+		  <img src="https://farm1.staticflickr.com/793/39037871680_6fef7ea8b4_z.jpg" alt="Kingdom of the Clouds"></a>
+		</div>
+	</div>
+</div> -->
+<!--/ GALLERY SECTION -->
+
+
+</div>
