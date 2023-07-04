@@ -233,9 +233,9 @@ article a{
 	color: blue;
 }
 
-h3 {
+/*h3 {
 	display: inline;
-}
+}*/
 
 /* responsive */
 
@@ -269,34 +269,12 @@ p {
 }
 
 
-
-
-/*	div.icon-placeholder:before {
-	content:url(../img/rose-loop-50x50.gif);
-	margin-left: -40px;
-	margin-right: -40px;
-	}*/
-
-	#feed-button{
-	margin-top: 10px;
-	}
-
-
-
 	.nav-top{
 		font-size:1.22rem;
 		margin-top: 0px;
 		margin-bottom: 0px;
 	}
 
-	.subnav {
-		font-size: .8rem;
-		margin-bottom: -10px;
-	}
-
-	.subnav li{
-		padding: 0;
-	}
 
 	.nav-top li{
 		padding-left:  5px;
@@ -305,13 +283,6 @@ p {
 		padding-bottom: 0;
 	}
 
-	.centerText {
-		margin-bottom: 15px;
-		margin-top: -15px;
-		text-align: center;
-		width: 100%;
-
-	}
 
 	#headshot {
 		width: 100px;
