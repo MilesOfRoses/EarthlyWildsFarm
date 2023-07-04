@@ -1,7 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css?family=Nova+Square'); */
-
-@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap');
 
 /*new css*/
 
@@ -18,7 +15,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 30%;
   margin-bottom: -75px;
 }
 
@@ -27,35 +24,38 @@ p, h1, h2, h3{
 }
 
 #buy-btn{
-	
-/*	width: 80%;font-family: courier;*/
 	font-weight: bold;
   display: block;
   margin-left: auto;
   margin-right: auto;
   padding: 25px;
-  font-size: 20px;
+  font-size: 25px;
   cursor: pointer;
   border-radius: 10px;
   border: none;
   background-color: #395e19;
   color: white;
   text-decoration: underline;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5)
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  font-family: 'Gaegu';
 
 }
 
 p, a, h1, h2, h3, li {
-	font-family: courier;
+	font-family: 'Gaegu';
 	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
 }
 
 
 nav a {
 	color: #5d2b24;
-	font-family: courier;
+	font-family: 'Gaegu';
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 ul.nav.nav-top{
@@ -207,7 +207,7 @@ a {
 
 #smallText{
 	color: #5d2b24;
-	font-size: 11px;
+	font-size: 18px;
 }
 
 
@@ -261,11 +261,11 @@ article a{
 }
 
 h2, h1 {
-	font-size: 15px;
+	font-size: 20px;
 }
 
 p {
-	font-size: 12px;
+	font-size: 18px;
 }
 
 .media-section {
