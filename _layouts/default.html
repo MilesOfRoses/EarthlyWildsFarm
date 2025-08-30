@@ -4,7 +4,7 @@ as well as all of the CSS links and JS links -->
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Earthly Wilds Farm</title>
+	<title>Earthly Wilds</title>
 
 	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/font-awesome.min.css"><!--social media icons -->
 	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/hexagons.min.css"> <!--social media animated hexigons -->
@@ -18,20 +18,24 @@ as well as all of the CSS links and JS links -->
 <body>
 <div class="wrapper">
 	<header>
+		<!--
 		<a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">
-				<img src="{{site.baseurl}}/img/rainbow-logo.png" id="farm-logo">
+				 <img src="{{site.baseurl}}/img/rainbow-logo.png" id="farm-logo"> 
 		</a>
+		-->
 
 		{% include nav.html navclass='nav-top' %}<!-- link to navigation under the masthead-->
 		
 	</header>
 	{{content}}
 
+	<!-- 
 	<footer>
 		<p id="smallText">Email me at EarthlyWildsFarm@gmail.com
 		<br>
 		Follow me on <a href="https://www.facebook.com/EarthlyWilds/" target="new-tab">Facebook</a> and <a href="https://www.instagram.com/earthly_wilds/" target="new-tab">Instagram</a>!</p>
 	</footer>
+	-->
 </div>
 
 <script src="{{site.baseurl}}/assets/js/jquery-2.1.0.min.js"></script>
