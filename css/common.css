@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap'); */
+ @import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap'); 
 
 /*new css*/
 
@@ -41,10 +41,10 @@ p, h1, h2, h3{
 
 }
 
-h1, h2, h3 {
+/* h1, h2, h3 {
 	font-family: 'Gaegu';
 	font-weight: bold;
-}
+} */
 
 p {
 	font-size: 20px;
