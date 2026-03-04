@@ -1,1 +1,25 @@
+---
+layout: default
+title: Archives
+meta: Archives
+changefreq: monthly
+---
 
+
+
+<div class="media-section">
+	<br>
+	<h2 class="centerText">Archives</a></h2>
+	<p>Here is a timeline of all the posts we have released</p>
+
+	<ul class="centerText article-list">
+		{% for post in site.posts %}
+				<li class="media-section">
+					<a href="{{site.baseurl}}{{post.url}}">
+						<h2 class="article-title">{{post.title}}</h2>
+						<p>{{post.meta}}</p>
+					</a>
+				</li>	
+		{% endfor %}
+	</ul>
+</div>
