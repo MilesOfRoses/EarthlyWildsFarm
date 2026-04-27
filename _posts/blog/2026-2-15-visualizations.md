@@ -10,9 +10,7 @@ permalink: /archives/visualizations
 
 	
 <div> <!-- visualizations -->
-	<h2 
-		class="centerText">Earthly Wilds Community Layouts, Visualizations and Permaculture Plans
- 	</h2>
+
 
 	<p class="centerText">
 		Posted by Miles Rose on 2/15/2025
