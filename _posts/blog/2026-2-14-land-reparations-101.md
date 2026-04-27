@@ -9,9 +9,7 @@ permalink: /archives/land-reparations-101
 
 
 <div> <!-- land reparations 101 -->
-	<h2 
-		class="centerText">EARTHLY WILDS COMMUNITY LAND REPARATIONS 101
- 	</h2>
+
 
 	<p class="centerText">
 		Posted by the Racial Equity Team (RET) on 2/14/2026
