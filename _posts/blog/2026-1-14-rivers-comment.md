@@ -1,6 +1,6 @@
 ---
 layout: blog-article
-title: River's Comment
+title: RET reply to River(Of Forestry Crew) comment against Earthly Wilds BIPOC Community
 meta: Posted By the Racial Equity Team (RET) on 1/14/26
 permalink: /archives/rivers-comment
 ---
