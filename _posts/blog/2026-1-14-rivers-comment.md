@@ -6,9 +6,7 @@ permalink: /archives/rivers-comment
 ---
 
 <div> <!-- "River's comment" 1/14/26 -->
-	<h2 
-		class="centerText">RET reply to River(Of Forestry Crew) comment about Earthly Wilds BIPOC Community
- 	</h2>
+
 	<p class="centerText">
 		Posted by the Racial Equity Team (RET) on 1/14/26
 	</p>
