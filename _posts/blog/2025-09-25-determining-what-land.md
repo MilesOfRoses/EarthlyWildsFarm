@@ -8,7 +8,6 @@ permalink: /archives/what-land
 
 
 <div> <!-- "what land 9/25/2025 -->
-	<h2 class="centerText">Determining Which Plot of Land would be Suitable for Building a New Community</h2>
 	<p class="centerText">Posted By Miles Rose on 9/25/2025</p>
 	<br>
 	<p>For those who aren’t familiar with the names of each plot of land that twin oaks “owns”, here’s a map: </p>
