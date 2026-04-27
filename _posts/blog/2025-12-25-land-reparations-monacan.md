@@ -6,7 +6,6 @@ permalink: /archives/land-reparations-monacan
 ---
 
 <div> <!-- "a paper about reparations" 12/8/25 -->
-	<h2 class="centerText">Earthly Wilds, Land Reparations, Monacan Land </h2>
 	<p class="centerText">Posted By the Racial Equity Team (RET) on 12/8/25</p>
 	<p>
 		Earthly Wilds is working to build a community to help repair the relationship between BIPOC and the land. 
