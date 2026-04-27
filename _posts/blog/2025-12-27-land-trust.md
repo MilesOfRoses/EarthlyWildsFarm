@@ -6,10 +6,7 @@ permalink: /archives/land-trust
 ---
 
 <div> <!-- "land trust" 12/8/25 -->
-	<h2 
-		class="centerText">Earthly Wilds Community Updates: <br>
-		Logistics, Fundraising, Land Trust and Shared Stewardship
- 	</h2>
+	
 
 	<p class="centerText">
 		PB RET 12/27/2025
