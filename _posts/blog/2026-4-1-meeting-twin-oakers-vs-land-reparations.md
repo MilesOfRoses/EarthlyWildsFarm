@@ -10,9 +10,7 @@ permalink: /archives/twin-oakers-vs-land-reparations
 
 
 <div> <!-- 4-1-2026 meeting notes -->
-	<h2 
-		class="centerText">Twin Oaks Community Meeting discussing Earthly Wilds Community
- 	</h2>
+
 
 	<p class="centerText">
 		Meeting hosted by RET 4/1/2026
