@@ -2,3 +2,5 @@ url: http://earthlywilds.farm
 exclude: ['README.md']
 name: Earthly Wilds Farm 
 description: This website is for learning about Earthly Wilds Farm
+plugins:
+  - jekyll-redirect-from
