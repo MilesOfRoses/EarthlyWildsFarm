@@ -291,6 +291,11 @@ article a{
 	}
 
 @media (max-width: 990px){ 
+
+	#farm-logo{
+	  width: 100%;
+	}
+
 	#videos{
 		max-width: 520px;
 	}
