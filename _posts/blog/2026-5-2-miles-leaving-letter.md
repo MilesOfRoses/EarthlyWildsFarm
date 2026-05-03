@@ -50,7 +50,7 @@ or listen to a <a href="https://youtu.be/CP5pRGnWZZg?si=VrYaUQcyoH2evZD0" target
 
 <br>
 <p>
-	twin oakers want to have their cake and eat it too, they boast about being such an "alternative to the mainstream”, yet the only people who they respect and validate are those who are closely aligned with white neurotypical culture, those who would perfectly fit into the mainstream capitalistic American society anyway. Whether it's through their anti-autistic-ableism, or their anti-black-racism (both on clear display in different discord threads) they shit on and invalidate marginalized people who genuinely need a *real* alternative to mainstream American society, while propping up the most privileged of its members. This is because twin oaks is nothing more than a microcosm of the worst aspects of mainstream white liberal sheltered middle-class America, distilled and fermented for decades in a moldy crumbling insular echo chamber. So it is not at all surprising that Black people don't last long at that Kulty Klanish Kompound. <a href="https://music.youtube.com/watch?v=4vpvWmidsUc&si=odivp8hztxtQ0S8N" target="_blank">They only kept me around just to make them look good.</a>
+	twin oakers want to have their cake and eat it too, they boast about being such an "alternative to the mainstream”, yet the only people who they respect and validate are those who are closely aligned with white neurotypical culture, those who would perfectly fit into the mainstream capitalistic American society anyway. Whether it's through their <a href="https://earthlywilds.com/archives/discord-anti-autistic-ableism" target="_blank">anti-autistic-ableism,</a> or their anti-black-racism (both on clear display in different discord threads) they shit on and invalidate marginalized people who genuinely need a *real* alternative to mainstream American society, while propping up the most privileged of its members. This is because twin oaks is nothing more than a microcosm of the worst aspects of mainstream white liberal sheltered middle-class America, distilled and fermented for decades in a moldy crumbling insular echo chamber. So it is not at all surprising that Black people don't last long at that Kulty Klanish Kompound. <a href="https://music.youtube.com/watch?v=4vpvWmidsUc&si=odivp8hztxtQ0S8N" target="_blank">They only kept me around just to make them look good.</a>
 </p>
 
 
@@ -63,31 +63,5 @@ or listen to a <a href="https://youtu.be/CP5pRGnWZZg?si=VrYaUQcyoH2evZD0" target
 -Miles Rose
 </p>
 
-
-
-
-<br>
-<p>
-
-</p>
-
-
-
-
-<br>
-<p>
-
-</p>
-
-
-
-
-<br>
-<p>
-
-</p>
-
-
-	
 
 </div> <!-- end miles leaving letter -->
