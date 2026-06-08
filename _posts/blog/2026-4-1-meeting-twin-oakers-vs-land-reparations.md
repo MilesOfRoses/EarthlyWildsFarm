@@ -6,9 +6,6 @@ permalink: /archives/twin-oakers-vs-land-reparations
 ---
 
 
-
-
-
 <div> <!-- 4-1-2026 meeting notes -->
 
 
@@ -17,7 +14,7 @@ permalink: /archives/twin-oakers-vs-land-reparations
 	</p>
 
 	<p>
-		For accessibility reasons for people who process information better via audio vs reading, we are including the audio recording of the meeting here: <a href="https://youtu.be/7voZw1xGJL8" target="_blank">"unlisted" youtube video link with audio only</a>
+		For accessibility reasons for people who process information better via audio vs reading, we are including the audio recording of the meeting here: <a href="https://youtu.be/qCg5So1uMrw" target="_blank">"unlisted" youtube video link with audio only</a>
 	</p>
 
 	<p>Present: Aram, Ada, Cecil, Chris, Christian, Edmund, Ezra, Fae, Harlock, Hawina, Holly, Jason, Jessica, Jessie, Kate, Keenan, Klein, Leighland, Mac, Mala, Ollie, Pam, Sebastian, Shal, Shilpa, Tigger, Valerie, Varun, Xando, Zi</p>
