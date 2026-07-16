@@ -1,6 +1,6 @@
 ---
 layout: blog-article
-title: Miles Leaving Letter
+title: Miles Leaving Letter for Twin Oaks Community
 meta: Posted By Miles on 5/2/26
 permalink: /archives/miles-leaving-letter
 ---
