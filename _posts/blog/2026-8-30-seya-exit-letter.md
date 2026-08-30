@@ -4,9 +4,8 @@ title: Seya's Leaving Letter for Twin Oaks Community
 meta: Posted By Seya on 8/30/2026
 permalink: /archives/seya-leaving-letter
 ---
-
-
-
+<p class=centerText>Posted By Seya on 8/30/2026</p>
+<br>
 
 
 <div> 
