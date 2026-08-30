@@ -10,7 +10,7 @@ permalink: /archives/miles-leaving-letter
 
 <div> <!-- miles leaving letter -->
 
-<p class=centerText>Posted By Miles on 5/2/26</p>
+<p class=centerText>Posted By Miles on 5/2/2026</p>
 <br>
 
 <p>
