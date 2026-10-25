@@ -19,7 +19,7 @@ When I first went to this commune in 2024, I really hoped it could be an honest 
 </p>
 
 <p>
-Over time however, I began witnessing deep systemic contradictions between those ideals and the lived reality experienced by many marginalized people within the community, especially Black members and members of the “Racial Equity Team”. White members who were actual rapists got a slap on the wrist at worst, meanwhile members of color who aren't endlessly servile were under a microscope and scrutinized for any supposed violations of “policy”, subject to social shunning, hyperbolic and nasty communications, and character assassination, which we were expected to absorb gracefully.
+Over time, however, I began to recognize profound systemic inconsistencies between the community’s stated values and the realities faced by its marginalized members, particularly Black members and those involved in the “Racial Equity Team.” White members who had committed actual acts of rape often faced little more than a token reprimand, while members of color who refused to be endlessly compliant found themselves subjected to intense scrutiny for even the most alleged or trivial breaches of “policy.” They were met with social ostracism, hostile and disproportionate communications, and deliberate attacks on their character, all while being expected to endure this treatment with grace and composure.
 </p>
 
 
