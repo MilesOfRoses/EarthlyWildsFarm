@@ -24,7 +24,7 @@ Over time however, I began witnessing deep systemic contradictions between those
 
 
 <p>
-Despite claims of egalitarianism, Twin Oaks is a community where white members saying racist things openly and in writing is considered much less controversial than members of color who push back (even politely). This was an environment dominated by white fragility, and fragility in general around any issue that requires privileged members to introspect or admit to having made mistakes/held erroneous assumptions.
+Despite claims of egalitarianism, Twin Oaks is a community where white members saying racist things openly and in writing is considered much less controversial than members of color who push back (even politely).
 </p>
 
 <p>
