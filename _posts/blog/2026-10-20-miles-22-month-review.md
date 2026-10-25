@@ -41,7 +41,7 @@ In the aftermath of the fire, I found myself navigating overlapping crises all a
 </p>
 
 <p>
-Ironically, it was only after leaving Twin Oaks and beginning a more nomadic phase of life that I really began to network more deeply through the wider BIPOC intentional communities movement, joining zoom calls and committees, visiting explicitly pro-Black healing spaces, intentional communities and organic farms (Heathcote Community, Soul Fire Farm, the New Economy Coalition, etc) that I slowly began finding meaningful support, invitations, and aligned relationships. Through the Healing Committee and other related spaces, I have now connected with people and projects across multiple states who share similar values and visions around land reparations, sanctuary, healing, racial justice, food sovereignty, and the creation of new coommunities.
+Ironically, it was only after leaving Twin Oaks and beginning a more nomadic phase of life that I really began to network more deeply through the wider BIPOC intentional communities movement, joining zoom calls and committees, visiting explicitly pro-Black healing spaces, intentional communities and organic farms (Heathcote Community, Soul Fire Farm, the New Economy Coalition, etc) that I slowly began finding meaningful support, invitations, and aligned relationships. Through the Healing Committee and other related spaces, I have now connected with people and projects across multiple states who share similar values and visions around land reparations, sanctuary, healing, racial justice, food sovereignty, and the creation of new communities.
 </p>
 
 
